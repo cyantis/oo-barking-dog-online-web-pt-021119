@@ -8,7 +8,7 @@ class Dog
     self.name
   end
   
-  def woof
+  def bark
     "woof!"
   end
 end
