@@ -7,4 +7,8 @@ class Dog
   def name
     self.name
   end
+  
+  def woof
+    "woof!"
+  end
 end
