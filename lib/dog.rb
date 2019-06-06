@@ -1,11 +1,11 @@
 class Dog
-  def name=(str)
-    @name = str
+  def name=(name)
+    @name = name
   end
     
   
   def name
-    self.name
+    name
   end
   
   def bark
